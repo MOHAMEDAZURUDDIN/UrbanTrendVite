@@ -1,0 +1,341 @@
+[
+  
+    {
+      "id": "1x0x1",
+      "name": "Nike Air Max Plus 1 2.0",
+      "price": 210,
+      "description": "Classic, Comfortable.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-air-max-plus-1.png" },
+        { "image": "/images/products/nike-air-max-plus-2.png" },
+        { "image": "/images/products/nike-air-max-plus-3.png" }
+      ],
+      "seller": "ShoeHaven",
+      "stock": 23,
+      "numOfReviews": 31,
+      "reviews": [], 
+      "color":"black ",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x2",
+      "name": "Unisex XC72",
+      "price": 180,
+      "description": "Versatile, Lightweight.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/unisex-1.png" },
+        { "image": "/images/products/unisex-2.png" },
+        { "image": "/images/products/unisex-3.png" }
+      ],
+      "seller": "StrideStylista",
+      "stock": 16,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"red-500",
+      "shadow":"shadow-red-500"
+    },
+    {
+      "id": "1x0x3",
+      "name": "Nike Alphafly-1sd",
+      "price": 210,
+      "description": "Speed, Innovation",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-alphafly-1.png" },
+        { "image": "/images/products/nike-alphafly-2.png" },
+        { "image": "/images/products/nike-alphafly-3.png" }
+      ],
+      "seller": "WalkInStyleMall",
+      "stock": 23,
+      "numOfReviews": 31,
+      "reviews": [],
+      "color":"blue-700",
+      "shadow":"shadow-blue-500"
+    },
+    {
+      "id": "1x0x6",
+      "name": "Cloudmonster p-17.8",
+      "price": 380,
+      "description": "Innovative, Comfortable.",
+      "ratings": 4.9,
+      "images": [
+        { "image": "/images/products/Cloudmonster-1.png" },
+        { "image": "/images/products/Cloudmonster-2.png" },
+        { "image": "/images/products/Cloudmonster-3.png" },
+        { "image": "/images/products/Cloudmonster-4.png" }
+      ],
+      "seller": "TrendyToeMarket",
+      "stock": 14,
+      "numOfReviews": 34,
+      "reviews": [],
+      "color":"gray-500 ",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x9",
+      "name": "Nike Lebron PR3",
+      "price": 220,
+      "description": "Iconic Nike statement.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-lebron-1.png" },
+        { "image": "/images/products/nike-lebron-2.png" },
+        { "image": "/images/products/nike-lebron-3.png" }
+      ],
+      "seller": "StepInLuxuryStore",
+      "stock": 11,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"red-500",
+      "shadow":"shadow-red-500"
+    },
+    {
+      "id": "1x0x12",
+      "name": "valentino hipe",
+      "price": 160,
+      "description": "Luxurious, Edgy.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/valentino-1.png" },
+        { "image": "/images/products/valentino-2.png" },
+        { "image": "/images/products/valentino-3.png" }
+      ],
+      "seller": "ZenithZapatosShop",
+      "stock": 20,
+      "numOfReviews": 21,
+      "reviews": [],
+      "color":"yellow-700",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x4",
+      "name": "balenciaga F35",
+      "price": 210,
+      "description": "High Fashion.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/balenciaga1.png" },
+        { "image": "/images/products/balenciaga2.png" },
+        { "image": "/images/products/balenciaga3.png" },
+        { "image": "/images/products/balenciaga4.png" }
+      ],
+      "seller": "FootFiestaShop",
+      "stock": 18,
+      "numOfReviews": 13,
+      "reviews": [],
+      "color":"slate-900",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x5",
+      "name": "balenciaga-Triple-s",
+      "price": 180,
+      "description": "Chunky, Iconic.",
+      "ratings": 4.9,
+      "images": [
+        { "image": "/images/products/balenciaga-triple-s-1.png" },
+        { "image": "/images/products/balenciaga-triple-s-2.png" },
+        { "image": "/images/products/balenciaga-triple-s-3.png" }
+      ],
+      "seller": "SoleSpot",
+      "stock": 14,
+      "numOfReviews": 34,
+      "reviews": [],
+      "color":"indigo-500",
+      "shadow":"shadow-blue-500"
+    },
+    
+    
+    {
+      "id": "1x0x7",
+      "name": "Mizuno Wave Rider 27",
+      "price": 240,
+      "description": "Stylish Air cushioning.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/mizuno-wave-rider-1.png" },
+        { "image": "/images/products/mizuno-wave-rider-2.png" },
+        { "image": "/images/products/mizuno-wave-rider-3.png" },
+        { "image": "/images/products/mizuno-wave-rider-4.png" }
+      ],
+      "seller": "SneakerSphere",
+      "stock": 21,
+      "numOfReviews": 21,
+      "reviews": [],
+      "color":"slate-700 ",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x10",
+      "name": "Nike Air Force SD Pro",
+      "price": 160,
+      "description": "Dynamic, Performance.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-air-force-1.png" },
+        { "image": "/images/products/nike-air-force-2.png" },
+        { "image": "/images/products/nike-air-force-3.png" },
+        { "image": "/images/products/nike-air-force-4.png" }
+      ],
+      "seller": "RunwayFeet",
+      "stock": 12,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"green-500",
+      "shadow":"shadow-blue-500"
+    },
+    {
+      "id": "1x0x8",
+      "name": "Asics Gel-1130e",
+      "price": 240,
+      "description": "Supportive, Cushioned.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/asics-gel-1130-1.png" },
+        { "image": "/images/products/asics-gel-1130-2.png" },
+        { "image": "/images/products/asics-gel-1130-3.png" },
+        { "image": "/images/products/asics-gel-1130-4.png" }
+      ],
+      "seller": "ComfortCrazeMart",
+      "stock": 19,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"black",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x15",
+      "name": "Nike Jordan Air Max",
+      "price": 190,
+      "description": "Streets domination.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/air-Jordan-1.png" },
+        { "image": "/images/products/air-Jordan-2.png" },
+        { "image": "/images/products/air-Jordan-3.png" }
+      ],
+      "seller": "PoshStrideCenter",
+      "stock": 22,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"red-500",
+      "shadow":"shadow-red-500"
+    },
+   
+    {
+      "id": "1x0x11",
+      "name": "Nike Air Max-2.0",
+      "price": 180,
+      "description": "Comfortable, Stylish.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-air-max-1.png" },
+        { "image": "/images/products/nike-air-max-2.png" },
+        { "image": "/images/products/nike-air-max-3.png" },
+        { "image": "/images/products/nike-air-max-4.png" }
+      ],
+      "seller": "UrbanSoleBazaar",
+      "stock": 19,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"blue-500",
+      "shadow":"shadow-blue-500"
+    },
+    {
+      "id": "1x0x16",
+      "name": "Balenciaga Max-x",
+      "price": 200,
+      "description": "Nostalgic retro style.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/balenciaga-runner-1.png" },
+        { "image": "/images/products/balenciaga-runner-2.png" },
+        { "image": "/images/products/balenciaga-runner-3.png" },
+        { "image": "/images/products/balenciaga-runner-4.png" }
+      ],
+      "seller": "CasualChicShoes",
+      "stock": 26,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"slate-700 ",
+      "shadow":"shadow-black"
+    },
+    {
+      "id": "1x0x18",
+      "name": "Balenciaga Faux-Suede",
+      "price": 160,
+      "description": "Luxurious, Textured.",
+      "ratings": 4.8,
+      "images": [
+        { "image": "/images/products/faux-suede-1.png" },
+        { "image": "/images/products/faux-suede-2.png" },
+        { "image": "/images/products/faux-suede-3.png" }
+      ],
+      "seller": "ZenithZapatosShop",
+      "stock": 20,
+      "numOfReviews": 21,
+      "reviews": [],
+      "color":"blue-500",
+      "shadow":"shadow-blue-500"
+    },
+    {
+      "id": "1x0x14",
+      "name": "Balmain-405",
+      "price": 200,
+      "description": "Avant-garde streetwear.",
+      "ratings": 4.5,
+      "images": [
+        { "image": "/images/products/balmain-1.png" },
+        { "image": "/images/products/balmain-2.png" },
+        { "image": "/images/products/balmain-3.png" }
+      ],
+      "seller": "FootFashionHub",
+      "stock": 9,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"gray-400",
+      "shadow":"shadow-black"
+    },
+   
+    {
+      "id": "1x0x13",
+      "name": "Nike Air Uptempo",
+      "price": 170,
+      "description": "Future of running.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/nike-air-uptempo-1.png" },
+        { "image": "/images/products/nike-air-uptempo-2.png" },
+        { "image": "/images/products/nike-air-uptempo-3.png" }
+      ],
+      "seller": "VelvetWalkOutlet",
+      "stock": 13,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"indigo-500",
+      "shadow":"shadow-blue-500"
+    },
+    {
+      "id": "1x0x17",
+      "name": "DOLCE-GABBANA Pro-95",
+      "price": 220,
+      "description": "Sleek white power.",
+      "ratings": 5,
+      "images": [
+        { "image": "/images/products/d&g-1.png" },
+        { "image": "/images/products/d&g-2.png" },
+        { "image": "/images/products/d&g-3.png" },
+        { "image": "/images/products/d&g-4.png" }
+      ],
+      "seller": "SummitSolesStore",
+      "stock": 19,
+      "numOfReviews": 23,
+      "reviews": [],
+      "color":"gray-500 ",
+      "shadow":"shadow-black"
+    }
+    
+  ]
+  
